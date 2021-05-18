@@ -1,0 +1,42 @@
+{
+  "prefix": "",
+  "sahip": "",
+  "token": "",
+
+  "tag": "", 
+  
+  "sunucuID": "",
+
+
+
+  "silYetkiliRolID": "",
+  "muteYetkiliRolID": "",
+  "vmuteYetkilisiRolID": "",
+  "BanYetkiliRolID": "",
+  "JailYetkiliRolID": "",
+  "sesKesYetkiliRolID": "",
+  "nukeYetkiliRolID": "",
+  "rolYetkiliRolID": "",
+
+  "mutedRolID": "",
+  "mutedRolİsim": "",
+  "jailedRolID": "",
+  "jailedRolİsim": "",
+  "tagRolID": "",
+  "speacialRolID": "",
+  "speacialRolİsim": "",
+  "kayıtsızRolID": "",
+  "kayıtsızRolİsim": "",
+
+
+  "muteLogKanalID": "",
+  "unmuteLogKanalID": "",
+  "banLogKanalID": "",
+  "unbanLogKanalID": "",
+  "vmuteLogKanalID": "",
+  "unvmuteLogKanalID": "",
+  "jailLogID": "",
+  "unjailLogID": "",
+  "tagRolLogID": "",
+  "rolLogID": ""
+}
